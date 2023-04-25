@@ -4,7 +4,7 @@ Hi 👋 My name is Jakov Dolinić
 Frontend Developer
 ------------------
 
-I just finished my Udemy Course for full Web Developer by ZTM. Already have a degree in Web design and database. Currently refreshing my knowledge and working on simple projects.
+I just finished my Udemy Course for full Web Developer by ZTM. Already have a degree in Web design and database. Currently refreshing my knowledge and working on simple projects while learning React and React Native.
 
 * 🌍  I'm based in Zagreb
 * ✉️  You can contact me at [jadolinic@gmail.com](mailto:jadolinic@gmail.com)
