@@ -6,10 +6,10 @@ Frontend Developer
 
 I just finished my Udemy Course for full Web Developer by ZTM. Already have a degree in Web design and database. Currently refreshing my knowledge and working on simple projects.
 
-* 🌍  I'm based in Zagreb
-* ✉️  You can contact me at [jadolinic@gmail.com](mailto:jadolinic@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on New projects
+* 🌍  Based in Zagreb, Croatia
+* ✉️  For any collaboration feel free to contact me at [jadolinic@gmail.com](mailto:jadolinic@gmail.com)
+* 🧠  Learning about Web Development ( React )
+* 🤝  Ready to take on new projects
 
 ### Skills
 
