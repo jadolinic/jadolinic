@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Certified Web and Frontend developer.
+Gamer, Chess player, Nerd, Athlete.
 
 * 🌍  I'm based in Zagreb
 * ✉️  You can contact me at [jadolinic@gmail.com](mailto:jadolinic@gmail.com)
