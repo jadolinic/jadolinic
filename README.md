@@ -10,7 +10,7 @@ Gamer, Chess player, Nerd, Athlete.
 * ✉️  You can contact me at [jadolinic@gmail.com](mailto:jadolinic@gmail.com)
 * 🚀  I'm currently working on [My-Forecast](http://jadolinic.github.io/my-forecast)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Ready to take on new projects
+* 🤝  I'm open to collaborating and ready to take on new projects
 * ⚡  Fun really isn't something one considers when balancing the universe, but this does put a smile on my face
 
 ### Skills
